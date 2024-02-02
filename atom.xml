@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>芋泥猪&#39;Blog</title>
+  <icon>https://www.gravatar.com/avatar/744c3d48f681a8b44978685aacae0b55</icon>
+  
+  <link href="http://yunizhu.icu/atom.xml" rel="self"/>
+  
+  <link href="http://yunizhu.icu/"/>
+  <updated>2024-02-02T15:24:44.084Z</updated>
+  <id>http://yunizhu.icu/</id>
+  
+  <author>
+    <name>芋泥猪</name>
+    <email>2719048991@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好。</title>
+    <link href="http://yunizhu.icu/2024/02/02/%E4%BD%A0%E5%A5%BD%E3%80%82/"/>
+    <id>http://yunizhu.icu/2024/02/02/%E4%BD%A0%E5%A5%BD%E3%80%82/</id>
+    <published>2024-02-02T10:08:20.000Z</published>
+    <updated>2024-02-02T15:24:44.084Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;你好。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
